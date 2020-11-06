@@ -17,11 +17,11 @@ Map {
 }
 
 //CARTO Fonts
-@mont: "Montserrat Regular", "Noto Sans Regular", "Noto Sans Medium", "NanumBarunGothic Regular", "Koruri Regular", "Noto Sans Tibetan Regular", "Noto Sans Khmer Regular";
-@mont_md: "Montserrat Medium", "Noto Sans Medium", "Noto Sans Regular", "NanumBarunGothic Regular", "Koruri Regular", "Noto Sans Tibetan Regular", "Noto Sans Khmer Regular";
-@mont_bd: "Montserrat SemiBold", "Noto Sans Medium", "Noto Sans Regular", "NanumBarunGothic Regular", "Koruri Regular", "Noto Sans Tibetan Regular", "Noto Sans Khmer Regular";
-@mont_it: "Montserrat Italic", "Noto Sans Regular", "Noto Sans Medium", "NanumBarunGothic Regular", "Koruri Regular", "Noto Sans Tibetan Regular", "Noto Sans Khmer Regular";
-@mont_it_md: "Montserrat Italic", "Noto Sans Medium", "Noto Sans Regular", "NanumBarunGothic Regular", "Koruri Regular", "Noto Sans Tibetan Regular", "Noto Sans Khmer Regular";
+//@mont: "Montserrat Regular", "Noto Sans Regular", "Noto Sans Medium", "NanumBarunGothic Regular", "Koruri Regular", "Noto Sans Tibetan Regular", "Noto Sans Khmer Regular";
+//@mont_md: "Montserrat Medium", "Noto Sans Medium", "Noto Sans Regular", "NanumBarunGothic Regular", "Koruri Regular", "Noto Sans Tibetan Regular", "Noto Sans Khmer Regular";
+//@mont_bd: "Montserrat SemiBold", "Noto Sans Medium", "Noto Sans Regular", "NanumBarunGothic Regular", "Koruri Regular", "Noto Sans Tibetan Regular", "Noto Sans Khmer Regular";
+//@mont_it: "Montserrat Italic", "Noto Sans Regular", "Noto Sans Medium", "NanumBarunGothic Regular", "Koruri Regular", "Noto Sans Tibetan Regular", "Noto Sans Khmer Regular";
+//@mont_it_md: "Montserrat Italic", "Noto Sans Medium", "Noto Sans Regular", "NanumBarunGothic Regular", "Koruri Regular", "Noto Sans Tibetan Regular", "Noto Sans Khmer Regular";
 
 //Base Colors
 @landmass_fill:             #fbf8f3; //lighten(#F8F3EB,2);
@@ -50,7 +50,7 @@ Map {
 @place_halo:         #f2f5f8; //lighten(@med_text,60);
 
 //city shield
-@city_shield: url(images/city-square.png);
+//@city_shield: url(images/city-square.png);
 
 //ocean/sea label colors
 @marine_labels:       #fff;
