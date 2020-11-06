@@ -1,37 +1,44 @@
 {
-  "name": "voyager1",
-  "source": "carto.streets",
-  "layers": [
-    "housenumber",
-    "transportation_name",
-    "water_name",
-    "poi",
-    "place",
-    "transportation",
-    "building",
-    "aeroway",
-    "boundary",
-    "water",
-    "waterway",
-    "park",
-    "landuse",
-    "landcover"
-  ],
-  "styles": [
-    
-  ],
-  "nutiparameters": {
-    "lang": { "default": "", "values": {
-      "": "",
-      "en": "_en",
-      "de": "_de",
-      "fr": "_fr",
-      "it": "_it",
-      "es": "_es",
-      "ru": "_ru",
-      "et": "_et",
-      "zh": "_zh"
-    } }
+    "name": "voyager",
+    "source": "carto.streets",
+    "layers": [
+      "housenumber",
+      "transportation_name",
+      "water_name",
+      "poi",
+      "place",
+      "transportation",
+      "building",
+      "aeroway",
+      "boundary",
+      "water",
+      "waterway",
+      "park",
+      "landuse", 
+        "landcover"
+    ],
+    "styles": [
+      "style.mss",
+      "admin.mss",
+      "hydro.mss",
+      "landuse.mss",
+      "roads.mss",
+      "labels.mss"
+    ],
+    "nutiparameters": {
+      "lang": { "default": "", "values": {
+        "": "",
+        "en": "_en",
+        "de": "_de",
+        "fr": "_fr",
+        "it": "_it",
+        "es": "_es",
+        "ru": "_ru",
+        "et": "_et",
+        "zh": "_zh"
+      } }
+    }
   }
-}
-
+  
+  
+  
