@@ -16,12 +16,7 @@
     "landcover"
   ], 
   "styles": [
-    "voyager/style.mss", 
-    "shared/admin.mss", 
-    "shared/hydro.mss", 
-    "shared/landuse.mss", 
-    "shared/roads.mss", 
-    "shared/labels.mss"
+    "voyager/style.mss"
   ], 
   "nutiparameters": {
     "lang": {
