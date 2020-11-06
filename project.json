@@ -18,12 +18,7 @@
     "landcover"
   ],
   "styles": [
-    "style.mss",
-    "admin.mss",
-    "hydro.mss",
-    "landuse.mss",
-    "roads.mss",
-    "labels.mss"
+    "style.mss"
   ],
   "nutiparameters": {
     "lang": { "default": "", "values": {
