@@ -1,8 +1,8 @@
 {
   "layers": [
     "housenumber", 
-    "water_name", 
     "transportation_name", 
+    "water_name", 
     "poi", 
     "place", 
     "transportation", 
@@ -16,7 +16,7 @@
     "landcover"
   ], 
   "styles": [
-    "voyager/style.mss", 
+    "positron/style.mss", 
     "shared/admin.mss", 
     "shared/hydro.mss", 
     "shared/landuse.mss", 
@@ -60,7 +60,7 @@
       }
     }
   }, 
-  "name": "voyager", 
+  "name": "positron", 
   "files": {
     "shared/hydro.mss": {
       "md5": "269ca4560872d0a276467fac899c2393", 
@@ -69,6 +69,10 @@
     "shared/roads.mss": {
       "md5": "7443aef4ee152461518b0d5ddf5e6807", 
       "size": 8506
+    }, 
+    "positron/style.mss": {
+      "md5": "01c7224b6621e03fa6641c20c2d35250", 
+      "size": 6486
     }, 
     "fonts/Montserrat-Medium.ttf": {
       "md5": "5f797490f806b3b229299f0a66de89c9", 
@@ -98,17 +102,13 @@
       "md5": "f7213526ec9296ff43426bfe3eae8926", 
       "size": 190648
     }, 
-    "voyager/style.mss": {
-      "md5": "f4418ee4edc350706bccd994bcb8594d", 
-      "size": 7300
+    "images/dark-matter-square-3.png": {
+      "md5": "57f1c4c9cca990e9205aa7e6e1a4adff", 
+      "size": 125
     }, 
     "shared/admin.mss": {
       "md5": "d220777dfe5cd35516b06d705992d65d", 
       "size": 1245
-    }, 
-    "images/dark-matter-square-3.png": {
-      "md5": "57f1c4c9cca990e9205aa7e6e1a4adff", 
-      "size": 125
     }, 
     "fonts/Montserrat-Italic.ttf": {
       "md5": "8777b44e5f19cd64f83171126db732f0", 
