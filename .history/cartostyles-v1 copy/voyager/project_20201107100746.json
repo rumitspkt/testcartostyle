@@ -17,11 +17,11 @@
   ], 
   "styles": [
     "style.mss", 
-    "shared/admin.mss", 
-    "shared/hydro.mss", 
-    "shared/landuse.mss", 
-    "shared/roads.mss", 
-    "shared/labels.mss"
+    "admin.mss", 
+    "hydro.mss", 
+    "landuse.mss", 
+    "roads.mss", 
+    "labels.mss"
   ], 
   "nutiparameters": {
     "lang": {
