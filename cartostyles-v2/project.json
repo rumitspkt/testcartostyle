@@ -1,0 +1,138 @@
+{
+  "layers": [
+    "housenumber", 
+    "water_name", 
+    "transportation_name", 
+    "poi", 
+    "place", 
+    "transportation", 
+    "building", 
+    "aeroway", 
+    "waterway", 
+    "water", 
+    "boundary", 
+    "park", 
+    "landuse", 
+    "landcover"
+  ], 
+  "styles": [
+    "voyager/style.mss", 
+    "shared/admin.mss", 
+    "shared/hydro.mss", 
+    "shared/landuse.mss", 
+    "shared/roads.mss", 
+    "shared/labels.mss"
+  ], 
+  "nutiparameters": {
+    "lang": {
+      "default": "en"
+    }, 
+    "fallback_lang": {
+      "default": "en"
+    }, 
+    "pois": {
+      "default": 0, 
+      "values": {
+        "1": 1, 
+        "0": 0,
+        "2": 2 
+      }
+    }, 
+    "buildings": {
+      "default": 1, 
+      "values": {
+        "1": 1, 
+        "0": 0, 
+        "2": 2
+      }
+    }, 
+    "texts3d": {
+      "default": "nutibillboard", 
+      "values": {
+        "1": "nutibillboard", 
+        "0": "point"
+      }
+    }, 
+    "markers3d": {
+      "default": "nutibillboard", 
+      "values": {
+        "1": "nutibillboard", 
+        "0": "point"
+      }
+    }, 
+    "shields3d": {
+      "default": "nutibillboard", 
+      "values": {
+        "1": "nutibillboard", 
+        "0": "point"
+      }
+    }
+  }, 
+  "name": "voyager", 
+  "files": {
+    "images/city-square.png": {
+      "md5": "dddf2625f7c43c0f6469495825e22ab8", 
+      "size": 92
+    }, 
+    "shared/roads.mss": {
+      "md5": "7443aef4ee152461518b0d5ddf5e6807", 
+      "size": 8506
+    }, 
+    "fonts/Montserrat-Regular.ttf": {
+      "md5": "f7213526ec9296ff43426bfe3eae8926", 
+      "size": 190648
+    }, 
+    "fonts/LICENSE_OFL.txt": {
+      "md5": "e4429555d14db1f02c5213788d343350", 
+      "size": 4393
+    }, 
+    "shared/hydro.mss": {
+      "md5": "269ca4560872d0a276467fac899c2393", 
+      "size": 1033
+    }, 
+    "fonts/Montserrat-SemiBold.ttf": {
+      "md5": "31e34a4dc526ffb104e2d988f6f52516", 
+      "size": 192268
+    }, 
+    "darkmatter/style.mss": {
+      "md5": "066071c1e10e3eaa89c6080b9a31c05f", 
+      "size": 6065
+    }, 
+    "shared/landuse.mss": {
+      "md5": "80fcd625e6dd42eef2c9bcdecbbebf28", 
+      "size": 2359
+    }, 
+    "fonts/NotoSans-Medium.ttf": {
+      "md5": "9ec3449723269a806ec6eaba0f8f6cef", 
+      "size": 452608
+    }, 
+    "voyager/style.mss": {
+      "md5": "84615f4f3ef386b09fb7b09e12ab56f7", 
+      "size": 7251
+    }, 
+    "fonts/Montserrat-Medium.ttf": {
+      "md5": "5f797490f806b3b229299f0a66de89c9", 
+      "size": 192488
+    }, 
+    "images/dark-matter-square-3.png": {
+      "md5": "57f1c4c9cca990e9205aa7e6e1a4adff", 
+      "size": 125
+    }, 
+    "shared/admin.mss": {
+      "md5": "d220777dfe5cd35516b06d705992d65d", 
+      "size": 1245
+    }, 
+    "positron/style.mss": {
+      "md5": "c15be9523eb81b45b4c3f84cd2c93409", 
+      "size": 6434
+    }, 
+    "fonts/Montserrat-Italic.ttf": {
+      "md5": "8777b44e5f19cd64f83171126db732f0", 
+      "size": 191936
+    }, 
+    "shared/labels.mss": {
+      "md5": "5482a20771367caade69757cbd191da8", 
+      "size": 12056
+    }
+  }
+}
